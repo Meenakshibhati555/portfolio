@@ -75,11 +75,22 @@ img {
 
   font-size: 2rem;
 }
+.text-center{
+  text-align: center;
+  font-size: x-large;
+  margin: 6px;
+}
 .line {
   margin-left: 30px;
   margin-right: 30px;
   border-bottom: 1px solid darkgrey;
   margin-top: 100px;
+}
+.line2 {
+  margin-left: 30px;
+  margin-right: 30px;
+  border-bottom: 1px solid darkgrey;
+  
 }
 .resume-contact {
   padding: 25px;
